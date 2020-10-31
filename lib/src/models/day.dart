@@ -1,5 +1,4 @@
 enum Day {
-  Sunday,
   Monday,
   Tuesday,
   Wednesday,
